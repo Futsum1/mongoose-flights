@@ -7,7 +7,7 @@
   color: #f35810;
 }
 body {
-  margin: 0;
+  margin: 1px;
   height: 100vh;
   display: grid;
   grid-template-rows: 50px 1fr;
